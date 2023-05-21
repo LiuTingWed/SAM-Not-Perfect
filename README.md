@@ -26,6 +26,6 @@ If you find this work useful for your research or applications, please cite usin
 }
 ```
 
-## :clap: Acknowledgements
+## Acknowledgement
 
-Thanks for the diligent efforts of the authors involved in the [Segment Anything](https://github.com/facebookresearch/segment-anything). 
+Thanks for the efforts of the authors involved in the [Segment Anything](https://github.com/facebookresearch/segment-anything). 
