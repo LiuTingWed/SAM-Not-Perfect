@@ -7,7 +7,7 @@ Code repository for our paper titled "[Segment Anything Is Not Always Perfect: A
 
 ## Updates
 - [ ] Related code being sorted out, stay tuned!
-+ [x] This paper has been accepted as an Oral Presentation at the CVPR'23 VISION Workshop.
++ [x] This paper has been accepted as an **Oral Presentation** at the CVPR'23 VISION Workshop.
 
 -------
 
