@@ -11,7 +11,7 @@ Code repository for our paper titled "[Segment Anything Is Not Always Perfect: A
 
 ## Get Started
 
-Code and Results are coming soon!
+Code and Results are **coming soon**!
 
 -------
 
