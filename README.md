@@ -12,9 +12,17 @@ Code repository for our paper titled "[Segment Anything Is Not Always Perfect: A
 -------
 
 ## Get Started
-
-Code and Results are **coming soon**!
-
+### Eval SAM in different dataset
+1. Download the **vit_b, vit_h and vim_l** model form https://github.com/facebookresearch/segment-anything then put these models to the **model_ck** folder.
+2. Prepared own datasets put into the **datasets** folder.
+3. Set right path in /scripts/amg.py, then:
+> run amg.py
+### Chosen best results form the sam_output folder
+1. After inferring, the SAM model generates predicted maps from a singer RGB image (**multimask_output=True**). Check right path in **sam_dice_f1_mae.py** or **sam_f1_dice_mae.py** to decide the best map selected by Dice or F1 metrics. 
+### Eval other methods in different dataset
+1. Prepared these methods predicted maps to put into the **other_methods_output** folder.
+2. Check right path in /scripts/other_methods_dice_mae.py, then:
+> run other_methods_dice_mae.py
 -------
 
 ## Citation
