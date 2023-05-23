@@ -1,5 +1,5 @@
 # Segment Anything Is Not Always Perfect
-Code repository for our paper titled "[Segment Anything Is Not Always Perfect: An Investigation of SAM on Different Real-World Applications](https://arxiv.org/pdf/2304.05750.pdf)" (CVPRW Oral). 
+Code repository for our paper titled "[Segment Anything Is Not Always Perfect: An Investigation of SAM on Different Real-World Applications](https://arxiv.org/abs/2304.05750)" (CVPRW Oral). 
 
 ![avatar](https://github.com/LiuTingWed/SAM-Not-Perfect/blob/main/sample.png)
 
