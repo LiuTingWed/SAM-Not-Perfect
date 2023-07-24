@@ -6,9 +6,9 @@ Code repository for our paper titled "[Segment Anything Is Not Always Perfect: A
 ------
 
 ## Updates
-+ [x] This paper has been selected as **Most Inspective Paper**.
++ [x] This work is awarded as **[Best Paper](https://vision-based-industrial-inspection.github.io/cvpr-2023/)** (Most Inspective Paper) at the *CVPR'23 VISION Workshop*.
 + [x] Evaluation code has been released.
-+ [x] This paper has been accepted as an *Oral Presentation* at the *CVPR'23 VISION Workshop*.
++ [x] This work has been accepted as an *Oral Presentation* at the *CVPR'23 VISION Workshop*.
 
 -------
 
