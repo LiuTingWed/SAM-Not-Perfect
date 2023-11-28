@@ -29,7 +29,7 @@ Code repository for our paper titled "[Segment Anything Is Not Always Perfect: A
 
 ## Datasets
 
-The dataset download links used in our work are provided below.
+The download links of the dataset involved in our work are provided below.
 
 DUTS | COME15K | VT1000 | DIS | COD10K | SBU | CDS2K | ColonDB 
  :-: | :-: | :-: | :-: | :-: | :-: | :-: | :-:
