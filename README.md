@@ -6,7 +6,8 @@ Code repository for our paper titled "[Segment Anything Is Not Always Perfect: A
 ------
 
 ## Updates
-+ [x] This work is awarded as **[Best Paper](https://vision-based-industrial-inspection.github.io/cvpr-2023/)** (Most Inspective Paper) at the *CVPR'23 VISION Workshop*.
++ [x] Long version of this work has been accepted by *Machine Intelligence Research*.
++ [x] This work is awarded as **[Best Paper](https://vision-based-industrial-inspection.github.io/cvpr-2023/)** (Most Insightful Paper) at the *CVPR'23 VISION Workshop*.
 + [x] Evaluation code has been released.
 + [x] This work has been accepted as an *Oral Presentation* at the *CVPR'23 VISION Workshop*.
 
@@ -43,7 +44,7 @@ If you find this work useful for your research or applications, please cite usin
 @article{ji2023segment,
   title={Segment anything is not always perfect: An investigation of sam on different real-world applications},
   author={Ji, Wei and Li, Jingjing and Bi, Qi and Liu, Tingwei and Li, Wenbo and Cheng, Li},
-  journal={Computer Vision and Pattern Recognition Workshop (CVPRW)},
+  journal={arXiv preprint arXiv:2304.05750},
   year={2023}
 }
 ```
