@@ -6,6 +6,7 @@ Code repository for our paper titled "[Segment Anything Is Not Always Perfect: A
 ------
 
 ## Updates
++ [x] Another work, [Medical SAM Adapter](https://arxiv.org/abs/2304.12620) which addresses the issue of lacking domain-specific medical knowledge in the SAM, are available now.
 + [x] Long version of this work has been accepted by *Machine Intelligence Research*.
 + [x] This work is awarded as **[Best Paper](https://vision-based-industrial-inspection.github.io/cvpr-2023/)** (Most Insightful Paper) at the *CVPR'23 VISION Workshop*.
 + [x] Evaluation code has been released.
@@ -39,13 +40,24 @@ DUTS | COME15K | VT1000 | DIS | COD10K | SBU | CDS2K | ColonDB
 -------
 
 ## Citation
-If you find this work useful for your research or applications, please cite using this BibTeX:
+If you find our work useful for your research or applications, please cite using this BibTeX:
 ```bibtex
-@article{ji2023segment,
-  title={Segment anything is not always perfect: An investigation of sam on different real-world applications},
-  author={Ji, Wei and Li, Jingjing and Bi, Qi and Liu, Tingwei and Li, Wenbo and Cheng, Li},
-  journal={arXiv preprint arXiv:2304.05750},
-  year={2023}
+@misc{ji2023segment,
+      title={Segment Anything Is Not Always Perfect: An Investigation of SAM on Different Real-world Applications}, 
+      author={Wei Ji and Jingjing Li and Qi Bi and Tingwei Liu and Wenbo Li and Li Cheng},
+      year={2023},
+      eprint={2304.05750},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
+}
+
+@misc{wu2023medical,
+      title={Medical SAM Adapter: Adapting Segment Anything Model for Medical Image Segmentation}, 
+      author={Junde Wu and Wei Ji and Yuanpei Liu and Huazhu Fu and Min Xu and Yanwu Xu and Yueming Jin},
+      year={2023},
+      eprint={2304.12620},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV}
 }
 ```
 
