@@ -9,6 +9,7 @@ Code repository for our paper titled "[Segment Anything Is Not Always Perfect: A
 + [x] Another work, [Medical SAM Adapter](https://arxiv.org/abs/2304.12620) which addresses the issue of lacking domain-specific medical knowledge in the SAM, are available now.
 + [x] Long version of this work has been accepted by *Machine Intelligence Research*.
 + [x] This work is awarded as **[Best Paper](https://vision-based-industrial-inspection.github.io/cvpr-2023/)** (Most Insightful Paper) at the *CVPR'23 VISION Workshop*.
+      ![avatar](https://github.com/LiuTingWed/SAM-Not-Perfect/blob/main/announcement.png)
 + [x] Evaluation code has been released.
 + [x] This work has been accepted as an *Oral Presentation* at the *CVPR'23 VISION Workshop*.
 
